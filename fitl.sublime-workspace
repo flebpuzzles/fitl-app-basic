@@ -15,10 +15,16 @@
 			"file": "object.html",
 			"settings":
 			{
-				"buffer_size": 14,
+				"buffer_size": 68,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "blah blah blah"
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -54,6 +60,10 @@
 	},
 	"file_history":
 	[
+		"/Users/flebpuzzles/Homestead/Homestead.yaml",
+		"/Users/flebpuzzles/Desktop/hosts",
+		"/Users/flebpuzzles/Desktop/Code/fitl-app-basic/object.html",
+		"/Users/flebpuzzles/Desktop/Code/fitl-app-basic/README.md",
 		"/Applications/MAMP/htdocs/movies/resources/views/movies/index.blade.php",
 		"/Applications/MAMP/htdocs/movies/app/Http/Controllers/MovieController.php",
 		"/Applications/MAMP/htdocs/movies/routes/web.php",
@@ -94,7 +104,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -103,21 +113,47 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14,
+						"buffer_size": 68,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								60,
+								60
 							]
 						],
 						"settings":
 						{
-							"auto_name": "blah blah blah",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
